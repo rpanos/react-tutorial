@@ -1,6 +1,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-# React Tutorial
+# React Tutorial ALTERED
+
+In the interest of learning the fundamentals of ReactJS as quickly as possible, I am throwing together some demos on top of a fork of the original React Tutorial https://github.com/reactjs/react-tutorial.  Any comments or suggestions are GREATLY appreciated!
 
 This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
 
